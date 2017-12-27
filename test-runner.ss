@@ -1,4 +1,4 @@
-#!/usr/bin/env scheme-program
+":"; exec scheme --script "$0" $@
 
 (import (chezscheme)
         (unittest))
